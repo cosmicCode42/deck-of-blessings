@@ -1,0 +1,49 @@
+body {
+	padding: 0.1%;
+}
+a {
+	color:inherit;
+	text-decoration: none;
+}
+fieldset {
+	width: 50vw;
+	margin-left: 25vw;
+	margin-right: 25vw;
+}
+details {
+	width: 80vw;
+}
+fieldset legend {
+	text-align: center;
+}
+fieldset div {
+	background-color: white;
+	border: 2px outset black;
+	padding: 1px;
+	text-align: center;
+	text-transform: capitalize;
+}
+fieldset a {
+	color:initial;
+}
+a:hover {
+	color: gold;
+	padding: 1px;
+}
+details strong[title]:hover {
+	color: red;
+}
+.blessed-deck, .the-deck:hover {
+	background-color: maroon;
+	color: gold;
+	border: 3px outset gold;
+	border-radius: 5px;
+	padding: 1.5px;
+}
+.minipage {
+	border: 1px solid black; 
+	padding: 10px;
+}
+#main-deck-list > li {
+	list-style-type: none;
+}
