@@ -1,0 +1,1 @@
+1. Note to self - add modal to be linked to the Draw links, so that the website can call up cards at random. I don't know how complicated this will be yet, but it will likely be very complicated and involve some custom JS.
